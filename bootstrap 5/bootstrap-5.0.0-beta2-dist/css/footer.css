@@ -1,0 +1,14 @@
+footer{
+    border: 2px solid saddlebrown;
+    background-color: rgb(22, 64, 88);
+
+}
+.footer #copy,#mail{
+    color: aliceblue;
+    font-size: 1em sans-serif;
+    text-align: center;
+   
+}
+a{
+    color: aliceblue;
+}

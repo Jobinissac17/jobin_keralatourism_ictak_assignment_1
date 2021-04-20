@@ -1,0 +1,26 @@
+.row {
+    margin-left: 20px;
+    /* border: 2px solid springgreen; */
+    padding-top: 10px;
+   
+    
+}
+.col-sm {
+     /* border: solid 2px steelblue; */
+    padding-left: 50px;
+}
+ /* .container{
+    border: yellow solid 2px;
+    
+}
+.card1{
+    border: tomato 2px solid;
+}  */
+.card13,.card14{
+    margin-left: 110px;
+    /* border: lime solid 2px; */
+}
+.carousel-inner1,#carousel-inner{
+    border: solid 2px maroon; 
+    height: 285px;
+}

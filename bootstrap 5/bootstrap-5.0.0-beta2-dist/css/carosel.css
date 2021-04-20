@@ -1,0 +1,15 @@
+.carousel-inner{
+     height: 500px;
+ }
+
+h2{
+    text-align: center;
+    padding: 40px;
+    text-shadow: 2px 2px 5px rgb(151, 198, 240);
+}
+.carousel-inner #carosel-img{
+    border: 2px solid aqua;
+}
+/* .body-margin{ 
+    margin: 10px;
+} */
